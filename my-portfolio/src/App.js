@@ -1,13 +1,10 @@
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navigation from './components/navigation/navigation';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          hello world!
-        </p>
-      </header>
+      <Navigation/>
     </div>
   );
 }
