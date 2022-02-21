@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import picture from './JamesBurgess.jpg';
+import picture from './JamesBurgesstwo.jpg';
 import './landing.css';
 
 const Landing = (props) => {
