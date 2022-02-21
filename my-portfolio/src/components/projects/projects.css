@@ -1,6 +1,8 @@
 .logo {
     height: 40px;
     width: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .image {
     height: 250px;
@@ -12,4 +14,10 @@
 .row {
     margin-bottom: 25px;
     margin-top: 50px;
+}
+.right-button {
+    margin-left: 10px;
+}
+.left-button {
+    margin-right: 10px;
 }
