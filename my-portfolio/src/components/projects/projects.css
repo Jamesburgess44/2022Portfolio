@@ -9,7 +9,7 @@
     width: 400px;
 }
 .card {
-    width: 250px;
+    width: 300px;
 }
 .row {
     margin-bottom: 25px;
@@ -20,4 +20,8 @@
 }
 .left-button {
     margin-right: 10px;
+}
+.project_image {
+    height: 100%;
+    width: 100%;
 }
